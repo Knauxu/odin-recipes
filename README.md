@@ -4,5 +4,8 @@ This project will contain three recipes to some of my favorite dishes that I've 
 1. h1
 2. a
 3. ol
-4. img
-5. h3
+4. ul
+5. img
+6. h3
+
+I will also make use of my knowledge of relative and absolute paths to include websites and local files on my machine.
