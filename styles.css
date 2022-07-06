@@ -1,0 +1,17 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+ul {
+    list-style-position: inside;
+}
+
+.content,
+.recipes {
+    text-align: center;
+}
